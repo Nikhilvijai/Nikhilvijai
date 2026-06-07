@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nikhil Vijai 👋</h1>
 
-<!--
-**Nikhilvijai/Nikhilvijai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Final-year student · AI & Python Developer · Kerala, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Nikhilvijai">GitHub</a> ·
+  <a href="mailto:your@email.com">Email</a> ·
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+I'm a final-year student passionate about building intelligent, real-world applications using Python and AI. My work spans machine learning, natural language processing, and computer vision — and I enjoy taking ideas from concept to working deployment.
+
+I'm currently open to full-time roles and internships in AI/ML, data science, or backend development.
+
+---
+
+### What I work with
+
+**Languages & Frameworks**
+`Python` `Jupyter Notebook` `Streamlit`
+
+**AI / ML**
+`LangChain` `Google Gemini` `LSTM` `NLP` `Computer Vision` `Deep Learning`
+
+**Tools**
+`Git` `GitHub` `VS Code`
+
+---
+
+### Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [ArecaAI](https://github.com/Nikhilvijai/project_prAI) | Location-aware app that recommends native plants using your coordinates | Python, LangChain, Gemini, Streamlit |
+| [LSTM Next Word](https://github.com/Nikhilvijai/LSTM_nextWord) | Next-word prediction model trained with LSTM networks | Python, Jupyter, Streamlit |
+| [Hand Calc](https://github.com/Nikhilvijai/Hand_Calc) | Gesture-based calculator using computer vision | Python, OpenCV |
+
+---
+
+### Currently
+
+- 🎓 Finishing my final year
+- 🔍 Actively looking for AI/ML or software development roles
+- 📚 Learning more about LLM fine-tuning and agentic AI
+
+---
+
+### Get in touch
+
+If you're working on something interesting or looking to hire, feel free to reach out —
+📩 **your@email.com** · [LinkedIn](https://linkedin.com/in/yourprofile)

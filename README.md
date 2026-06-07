@@ -4,12 +4,6 @@
   Final-year student · AI & Python Developer · Kerala, India
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nikhilvijai">GitHub</a> ·
-  <a href="mailto:your@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-</p>
-
 ---
 
 ### About me

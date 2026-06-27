@@ -17,13 +17,13 @@ I'm currently open to full-time roles and internships in AI/ML, data science, or
 ### What I work with
 
 **Languages & Frameworks**
-`Python` `Jupyter Notebook` `Streamlit`
+`Python` `Jupyter Notebook` `Streamlit` `aiogram` `asyncio`
 
 **AI / ML**
-`LangChain` `Google Gemini` `LSTM` `NLP` `Computer Vision` `Deep Learning`
+`LangChain` `LSTM` `NLP` `Computer Vision` `Deep Learning` `LLM inference` `RAG` `Text embeddings` `Prompt engineering` 
 
 **Tools**
-`Git` `GitHub` `VS Code`
+`Git` `GitHub` `VS Code` `Chroma`
 
 ---
 
@@ -31,9 +31,10 @@ I'm currently open to full-time roles and internships in AI/ML, data science, or
 
 | Project | Description | Tech |
 |---|---|---|
-| [ArecaAI](https://github.com/Nikhilvijai/project_prAI) | Location-aware app that recommends native plants using your coordinates | Python, LangChain, Gemini, Streamlit |
 | [LSTM Next Word](https://github.com/Nikhilvijai/LSTM_nextWord) | Next-word prediction model trained with LSTM networks | Python, Jupyter, Streamlit |
 | [Hand Calc](https://github.com/Nikhilvijai/Hand_Calc) | Gesture-based calculator using computer vision | Python, OpenCV |
+| [HeyyBot](https://github.com/Nikhilvijai/Heyy_Bot.git) | Mentel Health intructor through telegram | Python, aiogram|
+| [ArecaAI](https://github.com/Nikhilvijai/project_prAI) | Location-aware app that recommends native plants using your coordinates | Python, LangChain, Gemini, Streamlit |
 
 ---
 

@@ -48,4 +48,4 @@ I'm currently open to full-time roles and internships in AI/ML, data science, or
 ### Get in touch
 
 If you're working on something interesting or looking to hire, feel free to reach out —
-📩 **your@email.com** · [LinkedIn](https://linkedin.com/in/yourprofile)
+📩 **nikhilvijai.ai@gmail.com** · [LinkedIn](https://www.linkedin.com/in/nikhil-vijai-564288300)
